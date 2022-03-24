@@ -29,6 +29,9 @@
     color: aliceblue;
     background-color: blueviolet;
 }
+.sub:hover{
+    background-color: rgb(74, 16, 129);
+}
 .cont2p{
     position: absolute;
     top: 306px;
